@@ -1,6 +1,6 @@
 # SmartBus Backend
 
-Spring Boot REST API for the SmartBus application. Requires Java 25, Maven 3.8 or later, and MySQL 8 or later.
+Spring Boot REST API for the SmartBus application. Requires Java 17 or later, Maven 3.8 or later, and MySQL 8 or later.
 
 ## Local demo setup
 
